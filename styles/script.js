@@ -1,0 +1,1 @@
+ $(".alert").delay(200).addClass("in").fadeOut(4000);
